@@ -1,5 +1,4 @@
 ---
-
 name: 一条小咸鱼
 layout: default
 ---
@@ -8,3 +7,4 @@ layout: default
 
 :smile:
 
+![帅哥]({{ site.baseurl }}/assets/images/白敬亭.jpg)
