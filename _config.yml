@@ -61,6 +61,11 @@ defaults:
       layout: 'author'
   - scope:
       path: ''
+      type: 'catalogs'
+    values:
+      layout: 'catalog'
+  - scope:
+      path: ''
       type: 'posts'
     values:
       layout: 'post'

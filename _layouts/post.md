@@ -6,9 +6,9 @@ layout: default
 
 <p>
   {{ page.date | date: "%Y年%m月%d日"  }}
-  {% assign author = site.authors | where: 'short_name', page.author | first %}
-  {% if author %}
-    - <a href="{{ author.url }}">{{ author.name }}</a>
+  {% assign catalog = site.catalogs | where: 'short_name', page.catalog | first %}
+  {% if catalog %}
+    - <a href="{{ catalog.url }}">{{ catalog.name }}</a>
   {% endif %}
 </p>
 

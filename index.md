@@ -1,14 +1,10 @@
 ---
-my_name: 清华
-name: hahah
-title: test
+
+name: 一条小咸鱼
 layout: default
 ---
 
-# {{ page.my_name}}
+# 欢迎来到*一条小咸鱼的主页*
 
-# {{ page.name}}
+:smile:
 
-# {{ page.title}}
-
-## {{ "Hello World!" | downcase }}
