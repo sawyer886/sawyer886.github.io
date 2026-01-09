@@ -18,11 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 一条小咸鱼
-email: your-email@example.com
+title: Sawyer's Tech Blog | 数据工程与全栈开发email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  小咸鱼偶尔翻翻身，写写博客
-baseurl: '' # the subpath of your site, e.g. /blog
+  十年数据工程师 | 大数据、全栈、Web3、AIbaseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://sawyer886.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
