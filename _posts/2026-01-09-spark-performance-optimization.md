@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Apache Spark性能优化实战：从理论到实践 | Apache Spark Performance Optimization: From Theory to Practice
-author: Sawyer
+title: Apache Spark Performance Optimizatio
 categories: [大数据工程, 性能优化]
 tags: [Spark, 大数据, 性能优化, 分布式计算]
 lang: zh-CN
