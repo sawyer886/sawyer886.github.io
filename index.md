@@ -2,6 +2,8 @@
 layout: default
 title: Home
 ---
+English | [中文](/index-zh.html)
+
 
 # Sawyer | Senior Big Data Engineer
 
